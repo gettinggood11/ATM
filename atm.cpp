@@ -109,6 +109,7 @@ MENU :
 				cout <<"4) Penarikan Jumlah Lain\n";
 				cout <<"5) Cek Saldo\n";
 				cout <<"6) Selesai\n";
+				cout <<"7) Belum Selesai\n";
 				cout << "Pilih Salah Satu Menu\n";
 				string kembaliKeMenu = "";
 				int menu;
@@ -271,8 +272,4 @@ MENU :
 		getch();
 		goto START;
 	}
-		
-
-
-
 }
