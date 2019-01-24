@@ -244,7 +244,9 @@ MENU :
 
 					case 5 :
 						system("CLS"); cout << "Hahahah"; cout << "FIND me";
+						cout << "hehe";
 						cout << "merge this";
+
 						cout << "Saldo anda sekarang senilai : \n";
 						// Mengeprint angka besar tanpa ruwet
 						printf("%.0f", arrayAkun[index].saldo);
